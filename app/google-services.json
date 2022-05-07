@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129602333823",
+    "project_id": "test-shopping-firebase-113fc",
+    "storage_bucket": "test-shopping-firebase-113fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129602333823:android:05ff81f2e9ec2acea2634a",
+        "android_client_info": {
+          "package_name": "com.dhruva.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129602333823-u48065mq5mfa7do7v85p7ja3j1r4bcfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrk2G1MuxMqDo4j4iJSGMOyU0TfvX5D0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129602333823-u48065mq5mfa7do7v85p7ja3j1r4bcfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
